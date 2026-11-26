@@ -1,3 +1,11 @@
+<!-- unleashedapi -->
+<p align="center">
+  <a href="https://unleashedapi.com/?utm_source=github&utm_medium=readme&utm_campaign=stonedmodder&utm_content=Aurora-JTAG-RGH-Trainer-Pack-Repository">
+    <img src="https://raw.githubusercontent.com/StonedModder/unleashedapi/main/assets/banner.png" alt="UnleashedAPI — uncensored OpenAI-compatible AI API. Free to start." width="100%">
+  </a><br>
+  <a href="https://unleashedapi.com/?utm_source=github&utm_medium=readme&utm_campaign=stonedmodder&utm_content=Aurora-JTAG-RGH-Trainer-Pack-Repository"><strong>UnleashedAPI</strong></a> — uncensored OpenAI-compatible models. Free to start, no prompt logging.
+</p>
+
 # Aurora Dashboard Trainers for JTAG/RGH Systems
 
 ## Overview
